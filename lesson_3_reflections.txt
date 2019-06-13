@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    to keep my local files tracked with the remote master, and if i want to make changes on the files.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
